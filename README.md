@@ -6,7 +6,7 @@ Pentester 🖋️ Security Consultant 🐱‍👤 Tech Enthusiast 🤖
 - July 2022 - [Getting Started in Security](https://github.com/Hotanya/hotanya/blob/main/WaikatoCSC_Preso.pdf) - [Waikato Cyber Security Challenge](https://web.archive.org/web/20220929211353/https://cybersecuritychallenge.org.nz/#)
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hotanya&theme=dark)]() 
+[![Hotanya's GitHub stats](https://github-readme-stats-vercel-pi.vercel.app/api?username=hotanya&show_icons=true&theme=tokyonight)](https://github.com/Hotanya/github-readme-stats-vercel)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hotanya&theme=dark)]() 
 
-![](https://komarev.com/ghpvc/?username=hotanya&colour=blueviolet&style=plastic&label=ProfileViews%2B%2B)
+![](https://komarev.com/ghpvc/?username=hotanya&colour=blueviolet&style=plastic&label=ProfileViews%2B%2B) 
 
