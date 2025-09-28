@@ -6,6 +6,7 @@ Pentester 🖋️ Security Consultant 🐱‍👤 Tech Enthusiast 🤖
 - Jul 2022 - [Getting Started in Security](https://github.com/Hotanya/hotanya/blob/main/WaikatoCSC_Preso.pdf) - [Waikato Cyber Security Challenge](https://web.archive.org/web/20220929211353/https://cybersecuritychallenge.org.nz/#)
 - Nov 2024 - Thinking Like An Attacker: Quick Wins For Securing Your Application - [OWASP Appsec Days India 2024](https://web.archive.org/web/20241111214743/https://owaspappsecdaysindia2024vir.sched.com/event/1rGPh/thinking-like-an-attacker-quick-wins-for-securing-your-application)
 - [CVE-2024-52286](https://www.cve.org/CVERecord?id=CVE-2024-52286)
+- Sept 2025 - [JWT WTF? A Look Into Common JWT Vulnerabilities](https://appsec.org.nz/assets/presentations/conference-2025/Ragtah--JWT_WTF.pdf)
 
 ## Tools 
 
