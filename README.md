@@ -6,10 +6,16 @@ Pentester 🖋️ Security Consultant 🐱‍👤 Tech Enthusiast 🤖
 - Jul 2022 - [Getting Started in Security](https://github.com/Hotanya/hotanya/blob/main/WaikatoCSC_Preso.pdf) - [Waikato Cyber Security Challenge](https://web.archive.org/web/20220929211353/https://cybersecuritychallenge.org.nz/#)
 - Sept 2024 - [Code Injection bug in es-hangul library](https://github.com/toss/es-hangul/issues/244) 
 - Nov 2024 - Thinking Like An Attacker: Quick Wins For Securing Your Application - [OWASP Appsec Days India 2024](https://web.archive.org/web/20241111214743/https://owaspappsecdaysindia2024vir.sched.com/event/1rGPh/thinking-like-an-attacker-quick-wins-for-securing-your-application)
-- [CVE-2024-52286](https://www.cve.org/CVERecord?id=CVE-2024-52286)
 - Sept 2025 - [JWT WTF? A Look Into Common JWT Vulnerabilities](https://appsec.org.nz/assets/presentations/conference-2025/Ragtah--JWT_WTF.pdf)
 - Oct 2026 - [Certified AI Red Team Analyst (AI-RTA)](https://labs.cyberwarfare.live/credential/achievement/6ac20a8e058903f534edaad0) - CyberWarFare Labs
 - Oct 2026 - [Burp Suite Certified Practitioner (BSCP)](https://portswigger.net/web-security/e/c/5dd6303e04a95e36) - PortSwigger
+- Oct 2026 - [Certified DevSecOps Professional (CDP)](https://www.credly.com/badges/b6f3ef0f-2c4e-46a5-9d8e-5f700ba766b4/) - Practical DevSecOps
+
+## CVEs
+- [CVE-2026-111442](https://www.cve.org/CVERecord?id=CVE-2026-111442) - Stored XSS via SVG Uploads - Backdrop CMS
+- [GHSA-8r9v-m73r-rmxf](https://github.com/getakinai/akinai-ecommerce/security/advisories/GHSA-8r9v-m73r-rmxf) - Server Code Execution via Crafted Theme - Akinai *(CVE pending)*
+- [GHSA-46g5-g2v6-rcvh](https://github.com/getakinai/akinai-ecommerce/security/advisories/GHSA-46g5-g2v6-rcvh) - Privilege Escalation via Self-Editable Roles - Akinai *(CVE pending)*
+- [CVE-2024-52286](https://www.cve.org/CVERecord?id=CVE-2024-52286) - Self-XSS in the Merge Feature - Stirling-PDF
 
 ## Tools 
 
